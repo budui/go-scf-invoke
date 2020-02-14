@@ -28,7 +28,7 @@ $ go-scf-invoke server
 
 ### 提交本地JSON文件作为事件
 
-请自备模拟JSON文件，用来模拟COS事件、定时器事件等等。
+请自备模板JSON文件，用来模拟COS事件、定时器事件等等。
 
 ```bash
 # 1. run scf
